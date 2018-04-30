@@ -982,7 +982,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	    value: function getCognitoConstants() {
 	      var CognitoConstants = {
 	        DOMAIN_SCHEME: 'https',
-	        DOMAIN_PATH_SIGNIN: 'oauth2/authorize',
+	        DOMAIN_PATH_SIGNIN: 'login',
 	        DOMAIN_PATH_TOKEN: 'oauth2/token',
 	        DOMAIN_PATH_SIGNOUT: 'logout',
 	        DOMAIN_QUERY_PARAM_REDIRECT_URI: 'redirect_uri',
